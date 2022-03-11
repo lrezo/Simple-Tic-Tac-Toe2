@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Topics/Multidimensional array/Cinema/out/
+/Topics/Multidimensional array/Cinema/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Multidimensional array/Swap the columns/out/
+/Topics/Multidimensional array/Swap the columns/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/Multidimensional array/The star figure/out/
+/Topics/Multidimensional array/The star figure/out/production/classes/
+/Topics/Switch statement/Floor-space of the room/build/
+/Topics/Switch statement/Floor-space of the room/out/
+/Topics/Switch statement/Floor-space of the room/out/production/classes/

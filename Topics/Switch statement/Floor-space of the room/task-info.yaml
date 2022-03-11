@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // start coding here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2300#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 27. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\nrectangle\n4\n10\nCorrect output:\n40.0\n\
+    \nYour code output:\n40.0\n\nError:\nException in thread \"main\" java.util.NoSuchElementException\n\
+    \tat java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\tat java.base/java.util.Scanner.next(Scanner.java:1594)\n\
+    \tat java.base/java.util.Scanner.nextDouble(Scanner.java:2564)\n\tat Main.main(Main.java:25)\n"
+  time: Sat, 26 Feb 2022 23:56:08 UTC
+record: -1
